@@ -1,1 +1,14 @@
-"" 
+p {
+	background-color: black;
+	color: white;
+	text-align: center;
+	height: 25px;
+
+}
+body {
+	width:40%;
+	text-align:center;
+	margin-left: 410px;
+	background-color: #f3f3f3;
+	margin-top: 100px;
+}
